@@ -1,5 +1,5 @@
 {
-  "name": "node-typescript-esmodule-template",
+  "name": "nodejs-typescript-esmodule-template",
   "description": "NodeJS es module typescript template.",
   "version": "1.0.0",
   "main": "src/index.ts",
