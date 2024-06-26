@@ -3,6 +3,7 @@
   "description": "NodeJS es module typescript template.",
   "version": "1.0.0",
   "main": "src/index.ts",
+  "type": "module",
   "license": "MIT",
   "scripts": {
     "start": "tsx src/index.ts"
