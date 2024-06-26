@@ -3,7 +3,7 @@
     "sourceMap": true,
     "strict": true,
     "target": "ESNext",
-    "moduleResolution": "nodenext",
+    "moduleResolution": "bundler",
     "esModuleInterop":false
   },
   "include": [
